@@ -1,6 +1,7 @@
 ## About Me
 
 Temporary quarantine zone for the **42 Piscine** (July 2026) 🏊‍♀️
+
 This profile exists strictly to isolate my chaotic C files so they don't contaminate my actual Git history. 
 
 ### Astro-Driven Development
